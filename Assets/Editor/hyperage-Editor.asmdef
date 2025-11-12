@@ -1,0 +1,10 @@
+{
+  "name": "hyperage-Editor",
+  "references": [
+    "hyperage"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
